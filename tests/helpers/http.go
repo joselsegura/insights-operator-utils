@@ -26,7 +26,7 @@ import (
 	"github.com/rs/zerolog/log"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/RedHatInsights/insights-operator-utils/server"
+	"github.com/joselsegura/insights-operator-utils/server"
 
 	"github.com/RedHatInsights/insights-results-aggregator/types"
 )

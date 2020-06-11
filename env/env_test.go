@@ -20,7 +20,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/RedHatInsights/insights-operator-utils/env"
+	"github.com/joselsegura/insights-operator-utils/env"
 )
 
 const envVariableName = "MY_ENV_VARIABLE"

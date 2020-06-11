@@ -19,7 +19,7 @@ package collections_test
 import (
 	"testing"
 
-	"github.com/RedHatInsights/insights-operator-utils/collections"
+	"github.com/joselsegura/insights-operator-utils/collections"
 )
 
 // TestStringInSliceEmptySlice tests the behaviour of StringInSlice for regular string and empty slice

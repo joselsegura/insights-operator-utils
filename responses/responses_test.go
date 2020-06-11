@@ -19,7 +19,7 @@ package responses_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/RedHatInsights/insights-operator-utils/responses"
+	"github.com/joselsegura/insights-operator-utils/responses"
 	"io/ioutil"
 	"net/http"
 	"net/http/httptest"
